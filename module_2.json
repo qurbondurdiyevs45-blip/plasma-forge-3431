@@ -1,0 +1,15 @@
+{
+  "name": "plasma-forge-3431",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4285,
+    "createdAt": "2026-09-12T13:17:19.143Z"
+  }
+}
